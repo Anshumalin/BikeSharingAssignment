@@ -8,7 +8,7 @@ We are trying to find the number of rentals issued from the company based on num
 The Boombikes bike rental dataset is being used.
 
 # Conclusions
-The R-squared value of the train set is 82.86% whereas the test set has a value of 81.19% which suggests that our model broadly explains the variance quite accurately on the test set and thus we can conclude that it is a good model.
+The R-squared value of the train set is 83.1% whereas the test set has a value of 82.4% which suggests that our model broadly explains the variance quite accurately on the test set and thus we can conclude that it is a good model.
 
 The p-values and VIF were used to select the significant variables. RFE was also conducted for automated selection of variables.
 
